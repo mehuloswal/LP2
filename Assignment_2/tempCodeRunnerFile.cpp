@@ -1,1 +1,0 @@
-if (!visit(temp))
